@@ -95,6 +95,7 @@ def _com_github_curl():
         strip_prefix = "curl-7.60.0",
         urls = [
             "https://antsys-nebula-archive.cn-hangzhou-alipay-b.oss-cdn.aliyun-inc.com/third_party/curl-7.60.0.tar.gz",
+            "https://github.com/curl/curl/releases/download/curl-7_60_0/curl-7.60.0.tar.gz"
         ],
     )
 
